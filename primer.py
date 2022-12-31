@@ -1,3 +1,5 @@
+from cleavage_efficiency import CLEAVAGE_EFFICIENCY
+from enzymes_sites import ENZYMES_SITES
 from Bio.Seq import Seq
 import re
 
