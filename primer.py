@@ -1,3 +1,5 @@
+from cleavage_efficiency import CLEAVAGE_EFFICIENCY
+from enzymes_sites import ENZYMES_SITES
 from Bio.Seq import Seq
 from Bio.SeqUtils import MeltingTemp as mt
 from rich.table import Table

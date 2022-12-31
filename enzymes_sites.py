@@ -1,4 +1,4 @@
-{
+ENZYMES_SITES = {
    "AclI":"AACGTT",
    "HindIII-HF":"AAGCTT",
    "HindIII":"AAGCTT",
